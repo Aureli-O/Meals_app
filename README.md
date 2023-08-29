@@ -4,7 +4,7 @@ Um app, com algumas funcionalidades, em que o usuário tem acesso a diversas rec
 
 ### Funções:
 - Favoritar receitas
-- Filtrar receitas por vegano,vegetariano,gluten-free e lactose-freeg
+- Filtrar receitas por vegano,vegetariano,gluten-free e lactose-free.
 - Visualizar as comidas por categoria e filtro.
 - Informações como dificuldade,ingredientes,passo a passo, custo do preparo e etc.
 ### Funções para adicionar:
